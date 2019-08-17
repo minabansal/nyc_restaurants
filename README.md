@@ -26,6 +26,7 @@ We will probably have 2 sets of drop downs to help the user narrow their search 
 * 1st (Location type): Restaurant, Bar, Brewery/Craft Beer Store
 * 2nd (Yelp $): $, $$, $$$, $$$$
 
+Visualization plan - stretch goal is something similar to the infatuation map website where you can filter for the above parameters/drop down to find a restaurant/bar
 
 1. Your visualization must include a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
 
